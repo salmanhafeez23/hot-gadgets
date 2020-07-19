@@ -1,0 +1,41 @@
+.container{
+    margin-bottom: 75px;
+    margin-top: 25px;
+}
+.navcolor{
+    font-weight: 500;
+    color: gray; 
+}
+.carousel-item{
+    padding: 50px 100px;
+    background-color: orange;
+}
+p{
+    color: grey;
+}
+.rong{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 9px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.bannerkahini{
+    background-image: url(images/banner-products/bg.png) ;
+}
+.saley{
+    padding-bottom: 15px;
+}
+.connection{
+    color: orange;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.saleyt{
+    border-bottom: 10px solid  orangered;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
